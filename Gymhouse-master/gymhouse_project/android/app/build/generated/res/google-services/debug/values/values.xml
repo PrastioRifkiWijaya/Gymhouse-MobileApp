@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">378777352594-srkof3c3equrpls9tuh47jds80h26tbm.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">378777352594</string>
+    <string name="google_api_key" translatable="false">AIzaSyDO3brFeOyox4yPexDq7A97oroOvHCrmAA</string>
+    <string name="google_app_id" translatable="false">1:378777352594:android:3abc0a0a842c5a72ae294b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDO3brFeOyox4yPexDq7A97oroOvHCrmAA</string>
+    <string name="google_storage_bucket" translatable="false">gymhouse-786fc.appspot.com</string>
+    <string name="project_id" translatable="false">gymhouse-786fc</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "378777352594",
+    "project_id": "gymhouse-786fc",
+    "storage_bucket": "gymhouse-786fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378777352594:android:3abc0a0a842c5a72ae294b",
+        "android_client_info": {
+          "package_name": "com.gymhouse.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378777352594-srkof3c3equrpls9tuh47jds80h26tbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO3brFeOyox4yPexDq7A97oroOvHCrmAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378777352594-srkof3c3equrpls9tuh47jds80h26tbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
